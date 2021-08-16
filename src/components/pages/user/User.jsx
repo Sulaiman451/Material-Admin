@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { CalendarToday, LocationSearching, MailOutlined, PermIdentity, PhoneAndroid, Publish } from '@material-ui/icons'
 import './User.css'
 
@@ -6,7 +7,9 @@ export default function User() {
     <div className="user">
       <div className="userTitleContainer">
         <h1 className="userTitle">Edit User</h1>
+        <Link to="/newUser">
         <button className="userAddButton">Create</button>
+        </Link>
       </div>
       <div className="userContainer">
         <div className="userDisplay">
@@ -30,7 +33,7 @@ export default function User() {
             <span className="userDisplayTitle">Contact Details</span>
             <div className="userDisplayInfo">
             <PhoneAndroid className="userDisplayIcon" />
-            <span className="userDisplayInfoTitle">+44 1111 2222 33</span>
+            <span className="userDisplayInfoTitle">+44-111-2222-333</span>
             </div>
             <div className="userDisplayInfo">
             <MailOutlined className="userDisplayIcon" />
