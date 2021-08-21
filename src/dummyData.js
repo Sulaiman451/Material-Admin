@@ -52,8 +52,8 @@ export const userData = [
 export const userRows = [
   {
     id: 1,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -61,8 +61,8 @@ export const userRows = [
   },
   {
     id: 2,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -70,8 +70,8 @@ export const userRows = [
   },
   {
     id: 3,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -79,8 +79,8 @@ export const userRows = [
   },
   {
     id: 4,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -88,8 +88,8 @@ export const userRows = [
   },
   {
     id: 5,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -97,8 +97,8 @@ export const userRows = [
   },
   {
     id: 6,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -106,8 +106,8 @@ export const userRows = [
   },
   {
     id: 7,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -115,8 +115,8 @@ export const userRows = [
   },
   {
     id: 8,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -124,8 +124,8 @@ export const userRows = [
   },
   {
     id: 9,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
@@ -133,11 +133,94 @@ export const userRows = [
   },
   {
     id: 10,
-    username: "Danielle Race",
-    avatar:
+    name: "Danielle Race",
+    image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     email: "d.race@gmail.com",
     status: "active",
     transaction: "£120.00",
+  },
+];
+
+export const productRows = [
+  {
+    id: 1,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 2,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 3,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 4,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 5,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 6,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 7,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 8,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 9,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
+  },
+  {
+    id: 10,
+    name: "Apple Airpods",
+    img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    stock: 100,
+    status: "active",
+    price: "£139.00",
   },
 ];
