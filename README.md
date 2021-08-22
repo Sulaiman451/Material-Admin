@@ -28,7 +28,8 @@ https://vigorous-carson-a6125d.netlify.app/
 
 Start by cloning this repo from your command line:
 
-```# Clone this repository
+```bash
+# Clone this repository
 $ git clone https://github.com/Sulaiman451/Material-Admin
 
 # Go into the repository
