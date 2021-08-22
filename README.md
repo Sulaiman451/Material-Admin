@@ -2,7 +2,7 @@
 
 An admin panel design using React. The home page contains a dashboard, small widgets displaying sales information, an analytics chart displaying how many active users there have been in each month, a list of new members, and a list of latest transactions.
 
-Note that on the sidebar, only the "Users" and "Products" elements actually do something, so pay not attention to the remaining elements as they are only there for the sake of appearance.
+Note that on the sidebar, only the "Users" and "Products" elements actually do something, so pay not attention to the remaining elements as they are only there for the sake of appearance. The topbar has no functionality whatsoever, it is also only there for appearance.
 
 When you click "Users", you will be led to a data grid showing a list of users. Users can also be selected, either individually or all at once, and can be sorted by any title in the top panel. Users can be edited, and the edit page allows you to change a range of details (such as username, full name, and more) through a form. In this edit page, there is also a button which leads you to a page for creating a new user through a form.
 
