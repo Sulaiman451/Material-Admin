@@ -2,6 +2,10 @@
   flex: 4;
 }
 
+.addProductTitle {
+  color: rgb(78, 78, 233);
+}
+
 .addProductForm {
   margin-top: 10px;
 }

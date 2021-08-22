@@ -52,91 +52,91 @@ export const userData = [
 export const userRows = [
   {
     id: 1,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 2,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 3,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 4,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 5,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 6,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 7,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 8,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 9,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },
   {
     id: 10,
-    name: "Danielle Race",
+    name: "Stasya Zefana",
     image:
       "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "d.race@gmail.com",
+    email: "stasya.z@gmail.com",
     status: "active",
     transaction: "£120.00",
   },

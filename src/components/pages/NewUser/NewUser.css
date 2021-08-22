@@ -2,6 +2,10 @@
   flex: 4;
 }
 
+.newUserTitle {
+  color: rgb(78, 78, 233);
+}
+
 .newUserForm {
   display: flex;
   flex-wrap: wrap;
