@@ -14,7 +14,7 @@ export default function User() {
       <div className="userContainer">
         <div className="userDisplay">
           <div className="userDisplayTop">
-            <img src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" className="userDisplayImage" />
+            <img src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="default avatar" className="userDisplayImage" />
             <div className="userDisplayTopTitle">
               <span className="userDisplayUsername">Stasya Zefana</span>
               <span className="userDisplayUserTitle">Fashion Designer</span>
@@ -72,7 +72,7 @@ export default function User() {
             </div>
             <div className="userUpdateRight">
               <div className="userUpdateUpload">
-                <img className="userUpdateImage" src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" />
+                <img className="userUpdateImage" src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="default avatar" />
                 <label htmlFor="file"><Publish className="userUpdateIcon" /></label>
                 <input type="file" id="file" style={{ display: "none" }} />
               </div>
