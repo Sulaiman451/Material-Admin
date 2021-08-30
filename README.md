@@ -73,3 +73,5 @@ $ yarn start
 # Install dependencies with all permissions
 $ sudo npm install --unsafe-perm-true --allow=root
 ```
+
+Once your server has started, you will be redirected to http://localhost:3000 on your browser so that you can see the site run locally.
